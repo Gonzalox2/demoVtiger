@@ -1,0 +1,21 @@
+[
+	{
+		"numInterno" : 7033,
+		"patente" : "WA-7841",
+		"patio" : "Puente Alto",
+		"servicio" : 800031
+	},
+	{
+		"numInterno" : 0666,
+		"patente" : "SE-1566",
+		"patio" : "Providencia",
+		"servicio" : 800001
+	},
+	{
+		"numInterno" : 1234,
+		"patente" : "AB-1234",
+		"patio" : "Maipu",
+		"servicio" : 800099
+	}
+	
+]
