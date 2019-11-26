@@ -1,0 +1,53 @@
+{
+	"operadores":[
+		{
+			"codigo" : 2647,
+			"nombre" : "CARLOS",
+			"apellidoPat" : "MONTALVAN",
+			"apellidoMat" : "ANRIQUE",
+			"nombreCompleto" : "MONTALVAN ANRIQUE CARLOS",
+			"patio" : "PUENTE ALTO",
+			"telefono" : "+569-12345678"
+		},
+		{
+			"codigo" : 4202,
+			"nombre" : "SEBASTIAN",
+			"apellidoPat" : "TORRES",
+			"apellidoMat" : "HENRIQUEZ",
+			"nombreCompleto" : "TORRES HENRIQUEZ SEBASTIAN",
+			"patio" : "SAN FELIPE",
+			"telefono" : "+569-66442288"
+		},
+		{
+			"codigo" : 1234,
+			"nombre" : "SAMUEL",
+			"apellidoPat" : "MUÑOZ",
+			"apellidoMat" : "DIAZ",
+			"nombreCompleto" : "MUÑOZ DIAZ SAMUEL",
+			"patio" : "SANTIAGO CENTRO",
+			"telefono" : "+569-11335577"
+		}
+		
+	],
+	"vehiculos":[
+		{
+			"numInterno" : 7033,
+			"patente" : "WA-7841",
+			"patio" : "Puente Alto",
+			"servicio" : 800031
+		},
+		{
+			"numInterno" : 0666,
+			"patente" : "SE-1566",
+			"patio" : "Providencia",
+			"servicio" : 800001
+		},
+		{
+			"numInterno" : 1234,
+			"patente" : "AB-1234",
+			"patio" : "Maipu",
+			"servicio" : 800099
+		}
+		
+	]
+}
